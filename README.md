@@ -1,2 +1,2 @@
 # MAD-QB
-MAD-QBcore aerver 
+MAD-QBcore server 
